@@ -1,5 +1,6 @@
 # DocSync Agent
 
+
 **Keep your Python project's documentation in lockstep with its code.**  
 The DocSync Agent scans your codebase, inserts missing docstrings and
 updates a structured API reference in your README. By automating
